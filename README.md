@@ -1,4 +1,4 @@
-### Welcome to my GitHub page! My name is Sam Malyarov 👋
+# Welcome to my GitHub page! My name is Sam Malyarov 👋
 
 ## I am a Data Analyst and a researcher with 5+ years of experience.
 - 💬 Current employment - VCIOM, as an Analyst and Researcher.
