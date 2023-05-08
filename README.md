@@ -6,7 +6,7 @@
 - 🤖 Plans: Currently seeking to improve my skills in the field of Machine Learning and Data Science.
 - 💾 This page features various projects that I'm able to share.
 
-### Connect with me:
+## Connect with me:
 Linkedin: https://www.linkedin.com/in/semyon-malyarov/
 
 Instagram: https://www.instagram.com/samalyarov/
