@@ -8,7 +8,9 @@
 
 ### Connect with me:
 Linkedin: https://www.linkedin.com/in/semyon-malyarov/
+
 Instagram: https://www.instagram.com/samalyarov/
+
 E-mail: samalyrov@gmail.com
 
 <br />
