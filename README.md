@@ -11,6 +11,8 @@ Linkedin: https://www.linkedin.com/in/semyon-malyarov/
 
 Instagram: https://www.instagram.com/samalyarov/
 
+Telegram: https://t.me/FishCatFish
+
 E-mail: samalyrov@gmail.com
 
 
