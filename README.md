@@ -2,7 +2,7 @@
 
 ## I am a Researcher with 5+ years of experience and an aspiring Data Analyst!
 - 💬 Current employment - VCIOM, as a Data Analyst and Researcher.
-- 🛠️ Skills: I am proficient at Excel, have decent experience with Python and SPSS and have worked with SQL and Tableau.
+- 🛠️ Skills: I am proficient at Excel, Python and SPSS, experienced with SQL and Tableau.
 - 🤖 Plans: Currently seeking to improve my skills in the field of Machine Learning and Data Science.
 - 💾 This page features various projects that I'm able to share.
 
